@@ -1,0 +1,6 @@
+__pycache__/
+*.big
+*.aux
+*.log
+*tex.gz
+*.dvi
